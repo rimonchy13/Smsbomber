@@ -1,8 +1,8 @@
 [
     {
-        "device_id": "device123",
-        "username": "user1",
-        "password": "pass123",
+        "device_id": "54d920cad54c95fd",
+        "username": "admin",
+        "password": "tradmin",
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
